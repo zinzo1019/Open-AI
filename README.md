@@ -1,4 +1,4 @@
-# 📝 01_summarize_text_app.py: Streamlit 요약 프로그램
+## 📝 01_summarize_text_app.py: Streamlit 요약 프로그램
 
 **Streamlit**과 **OpenAI GPT**를 활용하여 문서를 요약하는 프로그램입니다.
 
