@@ -1,6 +1,6 @@
-# 📝 Streamlit 요약 프로그램
+# 📝 01_summarize_text_app.py: Streamlit 요약 프로그램
 
-**Streamlit**과 **OpenAI GPT**를 활용하여 문서를 평이하고 요약하는 프로그램입니다.
+**Streamlit**과 **OpenAI GPT**를 활용하여 문서를 요약하는 프로그램입니다.
 
 사이드바에서 OpenAI API 키를 입력하고 요약할 문서를 입력하면, GPT 요약 결과를 보여줍니다. 
 
@@ -72,6 +72,3 @@ streamlit run summary_app.py
 - **`st.button()`**: 버튼 클릭으로 GPT 요약 시작.
 
 ---
-
-## 환경 바로가
-
