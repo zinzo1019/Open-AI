@@ -1,4 +1,4 @@
-## 📝 01_summarize_text_app.py: Streamlit 요약 프로그램
+![Feb-16-2025 16-51-21](https://github.com/user-attachments/assets/e18e99d8-27b7-45c3-bb76-c04d094f5f90)## 📝 01_summarize_text_app.py: Streamlit 요약 프로그램
 
 요약 프로그램 바로가기 > https://open-ai-01.streamlit.app
 
@@ -81,6 +81,8 @@ streamlit run summary_app.py
 
 보통복이는 **Streamlit**과 **OpenAI GPT**를 활용하여 문서를 평이하고 요약하는 프로그램입니다. 
 사이드바에서 OpenAI API 키를 입력하고 요약할 문서를 입력하면, GPT 요약 결과를 보여줍니다. 평이한 내용을 제거하고, 검증 연구복이를 제외하며, 3 행의 보기 좋은 요약문을 제공합니다.
+
+![Feb-16-2025 16-55-55](https://github.com/user-attachments/assets/bdcca8c2-fd09-4b01-9b4d-2427081b1e55)
 
 ---
 
