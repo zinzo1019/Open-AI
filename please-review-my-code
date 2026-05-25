@@ -1,0 +1,23 @@
+public class UserService {
+
+    public String getUserGrade(User user) {
+
+        if (user != null) {
+
+            if (user.getAge() >= 20) {
+
+                if (user.getPoint() >= 1000) {
+                    return "VIP";
+                } else {
+                    return "NORMAL";
+                }
+
+            } else {
+                return "MINOR";
+            }
+
+        }
+
+        return "UNKNOWN";
+    }
+}
